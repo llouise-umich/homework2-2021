@@ -20,35 +20,32 @@ p {
     padding-top: 15px;
 }
 
+div {
+    min-height: 150px;
+    padding:25px;
+}
+
 #red {
-    height: 160px;
-    padding: 25px;
     background-color: #ff0000;
     text-align: right;
 }
 
 #blue {
-    height: 160px;
-    padding: 25px;
     background-color: #0000ff;
     text-align: left;
 }
 #yellow {
-    height: 160px;
-    padding: 25px;
     background-color: #ffff00;
     text-align: right;
     color: black;
 }
 
-.header h2{
+#yellow h2{
     color: black;
     text-shadow: 4px 4px 2px #c7e2c7;
 }
 
 #green {
-    height: 160px;
-    padding: 25px;
     background-color: #008000;
     text-align: left;
 }
@@ -60,7 +57,7 @@ img {
     width: 550px;
 }
 
-footer {
+footer p{
     text-align: center;
     padding-bottom: 10px;
     padding-right: 10px;
