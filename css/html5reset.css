@@ -27,63 +27,8 @@ time, mark, audio, video {
     background:transparent;
 }
 
-
 body {
     line-height:1;
-    font-family: 'Times New Roman', sans-serif;
-    background-color: #000;
-    color: #ffffff;
-}
-
-#red {
-    height: 150px;
-    padding: 25px;
-    background-color: #ff0000;
-    text-align: right;
-}
-
-#blue {
-    height: 150px;
-    padding: 25px;
-    background-color: #0000ff;
-    text-align: left;
-}
-
-#yellow {
-    height: 150px;
-    padding: 25px;
-    background-color: #ffff00;
-    text-align: right;
-    color: black;
-}
-
-.header h2{
-    text-shadow: 4px 4px 2px #c7e2c7;
-}
-
-#green {
-    height: 150px;
-    padding: 25px;
-    background-color: #008000;
-    text-align: left;
-}
-
-h1 {
-    font-size: 64px;
-    text-align: center;
-    padding: 10px;
-
-}
-
-h2 {
-    font-size: 32px;
-    text-shadow: 4px 4px 2px #808080;
-
-}
-
-p {
-    font-size: 24px;
-    padding-top: 15px;
 }
 
 article,aside,details,figcaption,figure,
@@ -137,13 +82,6 @@ abbr[title], dfn[title] {
     cursor:help;
 }
 
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 550px;
-}
-
 table {
     border-collapse:collapse;
     border-spacing:0;
@@ -161,10 +99,4 @@ hr {
 
 input, select {
     vertical-align:middle;
-}
-
-footer {
-    text-align: center;
-    padding-bottom: 10px;
-    padding-right: 10px;
 }
